@@ -1,6 +1,7 @@
+
 # VoxLingua: AI-Powered Video Language Translator
 
-VoxLingua is an advanced video translation system that converts videos from one language to another while preserving the original speaker's voice characteristics. The project uses state-of-the-art AI models for speech recognition, translation, and voice synthesis.
+VoxLingua is an basic video translation system that converts videos from one language to another while preserving the original speaker's voice characteristics. The project uses state-of-the-art AI models for speech recognition, translation, and voice synthesis.
 
 ## 🌟 Features
 
@@ -21,6 +22,11 @@ While VoxLingua provides many advanced features, it is still a basic model with 
 4. **Normal Pace Only**: Currently only supports normal speech pace, which may sound unnatural for slower or faster speech.
 5. **Single Voice**: Cannot handle multiple speakers within a single video; limited to one voice for translation.
 6. **Limited Length**: Only supports videos up to 2 minutes, making it unsuitable for longer content.
+
+## 📺 Example
+
+- **Link to Original Video**: [Video](https://www.youtube.com/watch?v=aO1-6X_f74M)
+- **Translated Video**: ![example](example.mp4)
 
 ## 🛠️ Technical Architecture
 
