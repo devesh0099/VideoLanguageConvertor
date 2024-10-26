@@ -26,7 +26,7 @@ While VoxLingua provides many advanced features, it is still a basic model with 
 ## 📺 Example
 
 - **Link to Original Video**: [Video](https://www.youtube.com/watch?v=aO1-6X_f74M)
-- **Translated Video**: ![example](example.mp4)
+- **Translated Video**: ![example](Example.mp4)
 
 ## 🛠️ Technical Architecture
 
